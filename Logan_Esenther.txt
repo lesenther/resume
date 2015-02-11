@@ -1,0 +1,62 @@
+Logan Esenther
+295 Hanover Ave – Oakland, CA 94606
+(630) 661-5100 – le@berkeley.edu
+
+EXPERIENCE
+06/14 – 12/14 : Halotechnics – Mechanical Engineer  Emeryville, CA
+• Designed, modeled and fabricated components and test stations for high temperature energy storage systems
+• Utilized Solidworks to perform structural and thermal simulations to determine optimal system designs
+• Created state machine control system in LabVIEW, managed I/O lists and P&IDs, procured custom instrumentation
+06/11 – 06/14 : Halotechnics – Operations Engineer  Emeryville, CA
+• Developed a suite of integrated software to streamline operations and centralize data across departments:
+  ▫ A rapid experiment design tool used to create and analyze over 40,000 experiments (PHP and Javascript)
+  ▫ A cost optimization tool that solves linear programs to find the cheapest way to produce mixtures (VBA and PHP)
+  ▫ A data visualization tool for mapping phase spaces of multi-dimensional experiment data (Javascript and HTML)
+  ▫ Scripts to mine data, estimate current prices for raw materials and provide forecasts using predictive models (PERL)
+• Built full stack: Set up IT infrastructure, servers and databases (WAMP), and front-end CRUD interface (PHP)
+01/11 – 06/11 : Halotechnics – Supply Chain Analyst Emeryville, CA
+• Analyzed 12 years of energy market pricing data in R and evaluated the financial performance of storage technology
+• Responsible for determining current bulk raw material costs, identifying major suppliers, their production
+  capacities and assessing the logistical requirements for moving hundred-ton quantities of material across the globe
+• Innovated systems to manageably track and forecast prices for 150+ chemical compounds from dozens of suppliers
+• Oversaw Saltstream™ and Haloglass™ product lines, pursued sales leads, set up CRM workflow and monitored sales
+• Coordinated the procurement of raw materials and the production of product samples for customers
+  08/09 – 09/10 PulseTrip Inc. – Co-founder, Technical Director Cupertino, CA
+• Researched the medical tourism industry, analyzed market potential and wrote a detailed business plan and report
+• Acquired seed funding, recruited developers, and lead team to implement first iteration of web platform
+• Developed front-end user interface, utilized the CodeIgniter MVC framework in PHP to build the application
+  08/01 – present Esenther & Co. – Sole-Proprietor, Consultant  Chicago, IL
+• Provide client advisory services on technology implementation, including IT infrastructure, telecommunications
+  systems, automated operation procedures, data backup plans, security systems, network layout and system design
+
+EDUCATION
+09/07 – 06/10 : University of California, Berkeley – Bachelor of Science, Industrial Engineering & Operations Research
+• Management of Engineering and Innovation Certificate from the Center for Entrepreneurship and Technology
+• Coursework:  Linear and Non-linear Programming, Probability and Statistics, Forecasting and Quality Control,
+  Discrete Event Simulation, Supply Chain Management, Corporate Finance, Methods of Manufacturing
+• Senior Thesis: Risk Analysis for Technology Implementation at the Korean Atomic Energy Research Institute
+  ▫ Developed a discrete event simulation model to test the safeguards for a proposed nuclear pyro-processing facility (C)
+
+ACTIVITIES
+04/07 – 6/10 : Rebuilding Together at Berkeley – Founder, President of Student Association Berkeley, CA
+• Lead teams, allocated resources, coordinated operations across multiple sites and effectively oversaw safety of volunteers
+• Spearheaded recruiting campaign to amass a volunteer base of over 300 members in 6 weeks
+11/06 – 01/10 : Watergate Toastmasters – Vice President of Education, Secretary Emeryville, CA
+• Scheduled meetings, assigned mentors to new members, updated website and maintained supportive environment
+• Met with new members to determine their goals, created plans of action, and monitored their progress weekly
+
+PROJECTS
+08/09 – 12/09 : LVJ – Robotics Team Berkeley, CA
+• Lead team of 3 through a set of obstacle course challenges using touch, sound, light and ultrasonic sensors (Java)
+• Invited by Professor Roger Glassey to give a demonstration as part of the ‘Fun with Robots’ presentation on CalDay
+08/09 – 12/09 : Jamba Juice   Emeryville, CA
+• Analyzed facility layout for new product integration, created and ran simulations and presented alternative designs
+• Performed statistical analysis on sales data and created forecasting models based on time of year and weather conditions
+01/08 – 05/08 : Mark V – Self-propelled vehicle composed of simple materials  Berkeley, CA
+• Led team of 5 to design three-wheel autonomous vehicle; Awarded first place and set all-time class distance record
+
+SKILLS & INTERESTS
+• Experience in MS Office & Adobe Suites, MATLAB, LabVIEW, SolidWorks; Windows, OS X, Linux, UNIX; C/C++, Java, SQL,
+  VBA, Perl, Python, Ruby (RoR), R, PHP, HTML, CSS, Javascript; MySQL, PostgreSQL, Apache
+• Excellent written and verbal communication skills; Highly motivated; Enjoy working in and leading project teams
+• ASA-certified sailor, NAUI-certified scuba diver, amateur kiteboarder, avid programmer and V8/5.12+ rock climber
